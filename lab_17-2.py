@@ -4,6 +4,7 @@ import math
 
 class Circle:
     """ Circle class represents a circle """
+    
     def __init__(self, rad):
         """ Create a new circle with radius 1 """
         self.radius = rad
